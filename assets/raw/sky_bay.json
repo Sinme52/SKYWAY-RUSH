@@ -1,0 +1,26 @@
+{
+  "kind": "draft",
+  "prompt": "Wide horizontal panorama background for a racing game: twilight sky over the sea, deep indigo and violet at the top blending into hot pink, coral and soft gold just above the horizon, a few early stars, a thin crescent moon, long glowing lavender clouds, and low silhouettes of distant green-blue islands and a faraway lighthouse along the very bottom edge (only the bottom 15 percent, bottom edge is the horizon line). No ground, no water surface, no text. Painterly retro arcade background art.",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "complexity": null,
+  "size": "2304x768",
+  "output_format": "png",
+  "background": null,
+  "created_at": "2026-11-07T02:26:45",
+  "request_id": "req_819503ca70d44668aab41dedbb3cf109",
+  "elapsed_sec": 13.0,
+  "usage": {
+    "input_tokens": 109,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 109
+    },
+    "output_tokens": 181,
+    "output_tokens_details": {
+      "image_tokens": 181,
+      "text_tokens": 0
+    },
+    "total_tokens": 290
+  }
+}

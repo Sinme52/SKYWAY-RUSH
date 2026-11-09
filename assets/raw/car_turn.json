@@ -1,0 +1,30 @@
+{
+  "kind": "edit",
+  "prompt": "IMAGE 1 is the exact racing buggy to draw (same design, same orange and white paint, same tires, wing, tail lights, exhausts, white-helmet driver, same cel-shaded art style with dark outlines). Draw this same buggy from behind and slightly above, but with the car rotated about 30 degrees so its nose points toward the LEFT side of the frame: we see the rear of the car plus its right side panel and both right-side wheels, the front wheels steered to the left. Centered, filling about 85 percent of the frame width. Isolated on a fully transparent background, no shadow, no ground, no text.",
+  "input_images": [
+    "car_rear.png"
+  ],
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "complexity": null,
+  "size": "1024x1024",
+  "output_format": "png",
+  "background": "transparent",
+  "created_at": "2026-11-07T01:54:03",
+  "request_id": "req_d66f2d91bff746b48313f4681cd9d5b0",
+  "elapsed_sec": 18.7,
+  "usage": {
+    "input_tokens": 1174,
+    "input_tokens_details": {
+      "image_tokens": 1024,
+      "text_tokens": 150
+    },
+    "output_tokens": 439,
+    "output_tokens_details": {
+      "image_tokens": 439,
+      "text_tokens": 0
+    },
+    "total_tokens": 1613
+  },
+  "release_prompt": "Rear three-quarter view of an orange and white futuristic open-wheel racing buggy turning left, cel-shaded arcade sprite, transparent background"
+}

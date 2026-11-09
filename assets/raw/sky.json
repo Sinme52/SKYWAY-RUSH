@@ -1,0 +1,26 @@
+{
+  "kind": "draft",
+  "prompt": "Wide horizontal panorama background for a racing game: vivid deep-blue sky that gets lighter toward the horizon, big fluffy white cumulus clouds, and a low range of distant hazy blue-violet mountains and mesas sitting along the very bottom edge of the image (mountains occupy only the bottom 18 percent, bottom edge is the horizon line, mountains reach the bottom edge). No ground plane, no trees, no buildings, no text. Painterly retro arcade background art, bright and cheerful.",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "complexity": null,
+  "size": "2304x768",
+  "output_format": "png",
+  "background": null,
+  "created_at": "2026-11-07T01:53:20",
+  "request_id": "req_8e93e92a7fdb490cbd290a0c8a2a9ef5",
+  "elapsed_sec": 12.4,
+  "usage": {
+    "input_tokens": 104,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 104
+    },
+    "output_tokens": 181,
+    "output_tokens_details": {
+      "image_tokens": 181,
+      "text_tokens": 0
+    },
+    "total_tokens": 285
+  }
+}

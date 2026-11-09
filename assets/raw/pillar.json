@@ -1,0 +1,26 @@
+{
+  "kind": "draft",
+  "prompt": "Video game sprite: one tall vertical steel lattice truss support tower for an elevated racetrack, seen straight from the front (orthographic, no perspective), a repeating X-braced truss pattern painted red-orange with rivets and darker shading on the edges, uniform width from top to bottom, tileable vertically, fills the full height of the image. Clean cel-shaded arcade video game sprite art with crisp dark outlines and bright saturated colors, original design. Isolated on a fully transparent background, no ground, no shadow, no text.",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "complexity": null,
+  "size": "512x1536",
+  "output_format": "png",
+  "background": "transparent",
+  "created_at": "2026-11-07T01:53:20",
+  "request_id": "req_6ccecaac811d461eadf04e869a30c0c2",
+  "elapsed_sec": 12.3,
+  "usage": {
+    "input_tokens": 115,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 115
+    },
+    "output_tokens": 134,
+    "output_tokens_details": {
+      "image_tokens": 134,
+      "text_tokens": 0
+    },
+    "total_tokens": 249
+  }
+}

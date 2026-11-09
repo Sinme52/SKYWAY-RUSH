@@ -1,0 +1,30 @@
+{
+  "kind": "edit",
+  "prompt": "IMAGE 1 is a racing buggy sprite seen from behind-left. Keep EVERYTHING exactly identical to IMAGE 1 — same framing, same position and size of every part, same body, wing, driver, lights, exhausts and colors, same transparent background — and change ONLY the tires: they are now spinning very fast, so the tread blocks are smeared into strong vertical motion-blur streaks with soft light highlight bands, the tread pattern no longer readable, the orange wheel rims slightly blurred too. Same cel-shaded art style.",
+  "input_images": [
+    "car_turn.png"
+  ],
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "complexity": null,
+  "size": "1024x1024",
+  "output_format": "png",
+  "background": "transparent",
+  "created_at": "2026-11-07T02:26:49",
+  "request_id": "req_362881ce901042d698120de77fa92232",
+  "elapsed_sec": 17.4,
+  "usage": {
+    "input_tokens": 1147,
+    "input_tokens_details": {
+      "image_tokens": 1024,
+      "text_tokens": 123
+    },
+    "output_tokens": 439,
+    "output_tokens_details": {
+      "image_tokens": 439,
+      "text_tokens": 0
+    },
+    "total_tokens": 1586
+  },
+  "release_prompt": "Orange racing buggy, rear three-quarter view, fast-spinning motion-blurred tires, cel-shaded sprite, transparent background"
+}

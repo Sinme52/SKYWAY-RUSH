@@ -1,0 +1,26 @@
+{
+  "kind": "draft",
+  "prompt": "Video game sprite: a compact futuristic open-wheel racing buggy seen from directly behind and slightly above (camera about 15 degrees above, perfectly centered and left-right symmetric). Very wide chunky rear tires, a big rear wing, twin glowing red tail lights, chrome exhaust pipes, a driver in a white helmet visible in the open cockpit. Body painted bright orange with white racing stripes and dark gray mechanical parts. The whole car fills about 85 percent of the frame width. Clean cel-shaded arcade video game sprite art with crisp dark outlines and bright saturated colors, original design. Isolated on a fully transparent background. No shadow, no ground, no road, no text, no logos.",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "complexity": null,
+  "size": "1024x1024",
+  "output_format": "png",
+  "background": "transparent",
+  "created_at": "2026-11-07T01:53:24",
+  "request_id": "req_1b72aa8fdd684a7d922044a944254b82",
+  "elapsed_sec": 16.4,
+  "usage": {
+    "input_tokens": 143,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 143
+    },
+    "output_tokens": 439,
+    "output_tokens_details": {
+      "image_tokens": 439,
+      "text_tokens": 0
+    },
+    "total_tokens": 582
+  }
+}

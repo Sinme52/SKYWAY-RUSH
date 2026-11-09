@@ -1,0 +1,26 @@
+{
+  "kind": "draft",
+  "prompt": "Video game sprite sheet on a fully transparent background with exactly four separate objects in one row, with wide empty gaps between them so that nothing touches or overlaps, each standing upright and seen from the front, all about the same height filling most of the image height: 1) a tall red-and-white striped lighthouse on a small rock base, 2) a white sailboat with a tall triangular sail on a little patch of water, 3) a tiny rocky islet with two leaning palm trees, 4) a red and white navigation buoy with a light on top. Clean cel-shaded arcade video game sprite art with crisp dark outlines and bright saturated colors, original design. No sky, no shadows, no text.",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "complexity": null,
+  "size": "1536x1024",
+  "output_format": "png",
+  "background": "transparent",
+  "created_at": "2026-11-07T02:26:49",
+  "request_id": "req_d5319f9e39b0428cbd211c919790e928",
+  "elapsed_sec": 17.3,
+  "usage": {
+    "input_tokens": 152,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 152
+    },
+    "output_tokens": 343,
+    "output_tokens_details": {
+      "image_tokens": 343,
+      "text_tokens": 0
+    },
+    "total_tokens": 495
+  }
+}

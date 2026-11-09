@@ -1,0 +1,26 @@
+{
+  "kind": "draft",
+  "prompt": "Top-down aerial orthographic texture of a desert canyon floor seen from high above: warm orange and tan sand, darker red rock patches, dry winding riverbeds and cracked clay, sparse tiny dark green shrubs, subtle dune ripples, flat even warm sunset lighting, no roads, no buildings, no text, seamless tileable. Bright painterly arcade game texture.",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "complexity": null,
+  "size": "1024x1024",
+  "output_format": "png",
+  "background": null,
+  "created_at": "2026-11-07T02:26:51",
+  "request_id": "req_a8672ce01d2c44eabd9e539a2acda905",
+  "elapsed_sec": 19.9,
+  "usage": {
+    "input_tokens": 78,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 78
+    },
+    "output_tokens": 439,
+    "output_tokens_details": {
+      "image_tokens": 439,
+      "text_tokens": 0
+    },
+    "total_tokens": 517
+  }
+}

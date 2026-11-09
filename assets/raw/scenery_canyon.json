@@ -1,0 +1,26 @@
+{
+  "kind": "draft",
+  "prompt": "Video game sprite sheet on a fully transparent background with exactly four separate objects in one row, with wide empty gaps between them so that nothing touches or overlaps, each standing upright and seen from the front at ground level, all about the same height filling most of the image height: 1) a tall green saguaro cactus with two arms, 2) a natural red sandstone rock arch, 3) a tall flat-topped red desert mesa butte with layered strata, 4) a bare twisted dead desert tree. Clean cel-shaded arcade video game sprite art with crisp dark outlines and bright saturated colors, original design. No ground, no shadows, no text.",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "complexity": null,
+  "size": "1536x1024",
+  "output_format": "png",
+  "background": "transparent",
+  "created_at": "2026-11-07T02:26:48",
+  "request_id": "req_23c81b9f65f84346a48108f71fefa7e9",
+  "elapsed_sec": 16.1,
+  "usage": {
+    "input_tokens": 142,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 142
+    },
+    "output_tokens": 343,
+    "output_tokens_details": {
+      "image_tokens": 343,
+      "text_tokens": 0
+    },
+    "total_tokens": 485
+  }
+}

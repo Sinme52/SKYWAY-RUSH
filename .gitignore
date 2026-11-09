@@ -1,0 +1,4 @@
+node_modules/
+# ショート動画の作業ファイル（大きいので git に入れない）
+video/out/
+video/frames/

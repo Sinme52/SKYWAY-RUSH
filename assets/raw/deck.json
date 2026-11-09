@@ -1,0 +1,26 @@
+{
+  "kind": "draft",
+  "prompt": "Side view texture of the edge of an elevated steel racetrack deck: a horizontal steel I-beam girder band with rows of rivets, a yellow-and-black hazard stripe running along the top, and darker gray steel bracing below. Perfectly flat orthographic side view, fills the whole image edge to edge, seamless tileable left to right, no sky, no background, no text. Clean arcade game texture.",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "complexity": null,
+  "size": "1536x512",
+  "output_format": "png",
+  "background": null,
+  "created_at": "2026-11-07T01:53:33",
+  "request_id": "req_53253f679efb4a2eb53ff5298d79deff",
+  "elapsed_sec": 11.0,
+  "usage": {
+    "input_tokens": 91,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 91
+    },
+    "output_tokens": 134,
+    "output_tokens_details": {
+      "image_tokens": 134,
+      "text_tokens": 0
+    },
+    "total_tokens": 225
+  }
+}

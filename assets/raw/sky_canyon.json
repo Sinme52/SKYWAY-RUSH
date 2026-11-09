@@ -1,0 +1,26 @@
+{
+  "kind": "draft",
+  "prompt": "Wide horizontal panorama background for a racing game: blazing sunset sky, deep orange and gold near the horizon fading up into warm magenta and dusky violet at the top, long streaky pink and peach clouds lit from below, a glowing low sun haze, and a range of distant dark red-brown desert mesas, buttes and canyon walls in silhouette along the very bottom edge (they occupy only the bottom 18 percent, bottom edge is the horizon line). No ground plane, no plants, no buildings, no text. Painterly retro arcade background art.",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "complexity": null,
+  "size": "2304x768",
+  "output_format": "png",
+  "background": null,
+  "created_at": "2026-11-07T02:26:46",
+  "request_id": "req_a43957f8c24d4055ac7a38c49d168b73",
+  "elapsed_sec": 14.6,
+  "usage": {
+    "input_tokens": 118,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 118
+    },
+    "output_tokens": 181,
+    "output_tokens_details": {
+      "image_tokens": 181,
+      "text_tokens": 0
+    },
+    "total_tokens": 299
+  }
+}

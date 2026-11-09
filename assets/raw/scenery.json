@@ -1,0 +1,26 @@
+{
+  "kind": "draft",
+  "prompt": "Video game sprite sheet on a fully transparent background with exactly four separate objects in one row, evenly spaced with large empty gaps between them, each standing upright and seen from the front at ground level, all the same height filling most of the image height: 1) a tall tropical palm tree, 2) a big round leafy green tree, 3) a red sandstone rock spire, 4) a small white windmill with a red roof. Clean cel-shaded arcade video game sprite art with crisp dark outlines and bright saturated colors, original design. No ground, no shadows, no text.",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "complexity": null,
+  "size": "1536x1024",
+  "output_format": "png",
+  "background": "transparent",
+  "created_at": "2026-11-07T01:53:37",
+  "request_id": "req_c786a9caeb8d447191df291312f6a81f",
+  "elapsed_sec": 15.8,
+  "usage": {
+    "input_tokens": 128,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 128
+    },
+    "output_tokens": 343,
+    "output_tokens_details": {
+      "image_tokens": 343,
+      "text_tokens": 0
+    },
+    "total_tokens": 471
+  }
+}

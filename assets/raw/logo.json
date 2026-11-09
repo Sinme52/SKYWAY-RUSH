@@ -1,0 +1,26 @@
+{
+  "kind": "draft",
+  "prompt": "Retro arcade racing game title logo with the exact text \"SKYWAY RUSH\" in huge chunky italic 3D letters with orange-to-yellow gradient fill, thick dark navy outline, white highlight, speed lines streaking to the left, slight upward perspective tilt. Only the logo, isolated on a fully transparent background, no other text.",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "complexity": null,
+  "size": "1536x768",
+  "output_format": "png",
+  "background": "transparent",
+  "created_at": "2026-11-07T01:53:35",
+  "request_id": "req_bd053b2754834307a6b9a8023fa57367",
+  "elapsed_sec": 13.3,
+  "usage": {
+    "input_tokens": 74,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 74
+    },
+    "output_tokens": 229,
+    "output_tokens_details": {
+      "image_tokens": 229,
+      "text_tokens": 0
+    },
+    "total_tokens": 303
+  }
+}

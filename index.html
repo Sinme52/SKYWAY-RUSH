@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<title>SKYWAY RUSH</title>
+<meta name="description" content="画像の拡大縮小と回転だけで描いた、高架を走る疑似3Dレース。全3コース。絵は GPT Image、プログラムは Claude。">
+<style>
+  :root { color-scheme: dark; }
+  html, body { margin: 0; height: 100%; background: #05070d; overflow: hidden; touch-action: none; }
+  body { display: flex; align-items: center; justify-content: center; font-family: system-ui, sans-serif; }
+  #wrap { position: relative; width: min(100vw, calc(100vh * 16 / 9)); aspect-ratio: 16 / 9; }
+  canvas { display: block; width: 100%; height: 100%; background: #6fa8e8; }
+  #error { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; color: #fff; }
+  body.ready #loading { display: none; }
+  #loading { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; color: #cfe6ff; font-weight: 700; letter-spacing: .1em; }
+  .pad { position: absolute; bottom: 3%; display: none; gap: 12px; }
+  .pad.left { left: 3%; } .pad.right { right: 3%; }
+  .pad button {
+    width: 76px; height: 76px; border-radius: 50%; border: 3px solid rgba(255,255,255,.7);
+    background: rgba(10,25,60,.35); color: #fff; font: 900 20px system-ui, sans-serif;
+    -webkit-user-select: none; user-select: none; touch-action: none;
+  }
+  .pad button.on { background: rgba(255,170,40,.6); }
+  @media (pointer: coarse) { .pad { display: flex; } }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="960" height="540"></canvas>
+  <div id="loading">LOADING…</div>
+  <div id="error"></div>
+  <div class="pad left">
+    <button data-touch="left" aria-label="左">◀</button>
+    <button data-touch="right" aria-label="右">▶</button>
+  </div>
+  <div class="pad right">
+    <button data-touch="brake" aria-label="ブレーキ">B</button>
+    <button data-touch="accel" aria-label="アクセル">A</button>
+  </div>
+</div>
+<script src="track.js"></script>
+<script src="game.js"></script>
+</body>
+</html>

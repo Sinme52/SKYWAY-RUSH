@@ -1,0 +1,26 @@
+{
+  "kind": "draft",
+  "prompt": "Video game sprite: a wide start/finish gantry arch for a racing game seen straight from the front: two tall steel truss legs on the far left and right edges and a horizontal banner across the top with a black-and-white checkered pattern and big bold white letters reading \"SKYWAY RUSH\" on a red background in the middle of the banner. The space between the legs and below the banner is completely empty and transparent. Clean cel-shaded arcade video game sprite art with crisp dark outlines and bright saturated colors, original design. Isolated on a fully transparent background, no ground, no shadow.",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "complexity": null,
+  "size": "1536x768",
+  "output_format": "png",
+  "background": "transparent",
+  "created_at": "2026-11-07T01:53:32",
+  "request_id": "req_e061f7b19a2741059f8ea1ca270e1674",
+  "elapsed_sec": 10.7,
+  "usage": {
+    "input_tokens": 130,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 130
+    },
+    "output_tokens": 229,
+    "output_tokens_details": {
+      "image_tokens": 229,
+      "text_tokens": 0
+    },
+    "total_tokens": 359
+  }
+}
